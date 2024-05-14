@@ -11,4 +11,5 @@ Query Search: USers can search for specific information within the extracted tex
 Installation
 
 Import the libraries
+
 Run streamlit run main.py
